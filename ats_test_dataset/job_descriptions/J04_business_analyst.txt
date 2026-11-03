@@ -1,0 +1,6 @@
+Role: Business Analyst
+Domain: business analysis
+Minimum experience: 3 years.
+Required skills: requirements gathering, SQL, Excel, process mapping, UAT.
+Preferred skills: PowerPoint, stakeholder management, Agile, user stories.
+Responsibilities: Gather requirements, document processes, coordinate stakeholders, and support testing.

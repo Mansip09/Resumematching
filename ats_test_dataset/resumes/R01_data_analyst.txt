@@ -1,0 +1,6 @@
+Aarav Mehta
+Data Analyst | 3 years of experience
+Domain: analytics
+Skills: SQL, Python, Power BI, Excel, data visualization, dashboarding, data cleaning, stakeholder communication.
+Experience: Built Power BI dashboards, wrote SQL reporting queries, automated Excel reports with Python, and presented trends to stakeholders.
+Education: B.E. Computer Engineering.

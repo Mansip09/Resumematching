@@ -1,0 +1,6 @@
+Neel Patil
+QA Automation Engineer | 4 years of experience
+Domain: quality engineering
+Skills: Python, Selenium, Playwright, API testing, pytest, SQL, CI/CD, test planning.
+Experience: Designed automated UI and API tests, maintained regression suites, integrated tests into CI pipelines, and documented defects.
+Education: B.E. Computer Engineering.

@@ -1,0 +1,406 @@
+{
+  "resumes": [
+    {
+      "id": "R01",
+      "name": "Aarav Mehta",
+      "title": "Data Analyst",
+      "years_experience": 3,
+      "domain": "analytics",
+      "skills": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "data visualization",
+        "dashboarding",
+        "data cleaning",
+        "stakeholder communication"
+      ],
+      "text": "Aarav Mehta\nData Analyst | 3 years of experience\nDomain: analytics\nSkills: SQL, Python, Power BI, Excel, data visualization, dashboarding, data cleaning, stakeholder communication.\nExperience: Built Power BI dashboards, wrote SQL reporting queries, automated Excel reports with Python, and presented trends to stakeholders.\nEducation: B.E. Computer Engineering.",
+      "file": "R01_data_analyst.txt"
+    },
+    {
+      "id": "R02",
+      "name": "Diya Shah",
+      "title": "Data Scientist",
+      "years_experience": 4,
+      "domain": "analytics",
+      "skills": [
+        "Python",
+        "SQL",
+        "machine learning",
+        "statistics",
+        "pandas",
+        "scikit-learn",
+        "feature engineering",
+        "model evaluation"
+      ],
+      "text": "Diya Shah\nData Scientist | 4 years of experience\nDomain: analytics\nSkills: Python, SQL, machine learning, statistics, pandas, scikit-learn, feature engineering, model evaluation.\nExperience: Developed classification models, prepared datasets, engineered features, evaluated models with precision and recall, and communicated findings to product teams.\nEducation: M.Sc. Statistics.",
+      "file": "R02_data_scientist.txt"
+    },
+    {
+      "id": "R03",
+      "name": "Kabir Nair",
+      "title": "Backend Developer",
+      "years_experience": 5,
+      "domain": "software engineering",
+      "skills": [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker",
+        "Git",
+        "unit testing",
+        "system design"
+      ],
+      "text": "Kabir Nair\nBackend Developer | 5 years of experience\nDomain: software engineering\nSkills: Python, FastAPI, REST APIs, PostgreSQL, Docker, Git, unit testing, system design.\nExperience: Built REST services, designed relational schemas, implemented authentication, containerized services, and wrote automated tests.\nEducation: B.E. Information Technology.",
+      "file": "R03_backend_developer.txt"
+    },
+    {
+      "id": "R04",
+      "name": "Isha Kulkarni",
+      "title": "Business Analyst",
+      "years_experience": 4,
+      "domain": "business analysis",
+      "skills": [
+        "requirements gathering",
+        "SQL",
+        "Excel",
+        "PowerPoint",
+        "process mapping",
+        "UAT",
+        "stakeholder management",
+        "Agile"
+      ],
+      "text": "Isha Kulkarni\nBusiness Analyst | 4 years of experience\nDomain: business analysis\nSkills: requirements gathering, SQL, Excel, PowerPoint, process mapping, UAT, stakeholder management, Agile.\nExperience: Ran stakeholder workshops, documented requirements, mapped current and future processes, supported UAT, and prepared management updates.\nEducation: MBA Information Systems.",
+      "file": "R04_business_analyst.txt"
+    },
+    {
+      "id": "R05",
+      "name": "Rohan Desai",
+      "title": "Cloud DevOps Engineer",
+      "years_experience": 5,
+      "domain": "cloud infrastructure",
+      "skills": [
+        "AWS",
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD",
+        "Python",
+        "monitoring"
+      ],
+      "text": "Rohan Desai\nCloud DevOps Engineer | 5 years of experience\nDomain: cloud infrastructure\nSkills: AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Python, monitoring.\nExperience: Automated deployments, maintained Kubernetes workloads, managed infrastructure as code, built CI/CD pipelines, and improved monitoring.\nEducation: B.E. Computer Engineering.",
+      "file": "R05_cloud_devops_engineer.txt"
+    },
+    {
+      "id": "R06",
+      "name": "Ananya Rao",
+      "title": "Cybersecurity Analyst",
+      "years_experience": 3,
+      "domain": "cybersecurity",
+      "skills": [
+        "SIEM",
+        "incident response",
+        "log analysis",
+        "network security",
+        "vulnerability management",
+        "Linux",
+        "Python",
+        "risk reporting"
+      ],
+      "text": "Ananya Rao\nCybersecurity Analyst | 3 years of experience\nDomain: cybersecurity\nSkills: SIEM, incident response, log analysis, network security, vulnerability management, Linux, Python, risk reporting.\nExperience: Investigated security alerts, analyzed logs, coordinated incident response, tracked vulnerabilities, and prepared risk reports.\nEducation: B.Sc. Information Security.",
+      "file": "R06_cybersecurity_analyst.txt"
+    },
+    {
+      "id": "R07",
+      "name": "Vikram Joshi",
+      "title": "Product Manager",
+      "years_experience": 6,
+      "domain": "product management",
+      "skills": [
+        "product roadmap",
+        "prioritization",
+        "user stories",
+        "analytics",
+        "stakeholder management",
+        "Agile",
+        "A/B testing",
+        "market research"
+      ],
+      "text": "Vikram Joshi\nProduct Manager | 6 years of experience\nDomain: product management\nSkills: product roadmap, prioritization, user stories, analytics, stakeholder management, Agile, A/B testing, market research.\nExperience: Owned roadmap planning, prioritized backlogs, defined user stories, analyzed product metrics, and coordinated engineering, design, and commercial teams.\nEducation: MBA.",
+      "file": "R07_product_manager.txt"
+    },
+    {
+      "id": "R08",
+      "name": "Meera Iyer",
+      "title": "Financial Analyst",
+      "years_experience": 4,
+      "domain": "finance",
+      "skills": [
+        "financial modeling",
+        "forecasting",
+        "Excel",
+        "Power BI",
+        "variance analysis",
+        "SQL",
+        "budgeting",
+        "management reporting"
+      ],
+      "text": "Meera Iyer\nFinancial Analyst | 4 years of experience\nDomain: finance\nSkills: financial modeling, forecasting, Excel, Power BI, variance analysis, SQL, budgeting, management reporting.\nExperience: Built financial models, analyzed budget variances, prepared forecasts, automated reports, and presented financial performance to leadership.\nEducation: B.Com and MBA Finance.",
+      "file": "R08_financial_analyst.txt"
+    },
+    {
+      "id": "R09",
+      "name": "Neel Patil",
+      "title": "QA Automation Engineer",
+      "years_experience": 4,
+      "domain": "quality engineering",
+      "skills": [
+        "Python",
+        "Selenium",
+        "Playwright",
+        "API testing",
+        "pytest",
+        "SQL",
+        "CI/CD",
+        "test planning"
+      ],
+      "text": "Neel Patil\nQA Automation Engineer | 4 years of experience\nDomain: quality engineering\nSkills: Python, Selenium, Playwright, API testing, pytest, SQL, CI/CD, test planning.\nExperience: Designed automated UI and API tests, maintained regression suites, integrated tests into CI pipelines, and documented defects.\nEducation: B.E. Computer Engineering.",
+      "file": "R09_qa_automation_engineer.txt"
+    },
+    {
+      "id": "R10",
+      "name": "Sara Fernandes",
+      "title": "HR Operations Analyst",
+      "years_experience": 3,
+      "domain": "human resources",
+      "skills": [
+        "HRIS",
+        "Excel",
+        "data validation",
+        "recruitment operations",
+        "reporting",
+        "stakeholder communication",
+        "process improvement",
+        "data privacy"
+      ],
+      "text": "Sara Fernandes\nHR Operations Analyst | 3 years of experience\nDomain: human resources\nSkills: HRIS, Excel, data validation, recruitment operations, reporting, stakeholder communication, process improvement, data privacy.\nExperience: Maintained employee records, validated recruitment data, prepared operational dashboards, improved workflows, and followed data privacy procedures.\nEducation: BBA Human Resources.",
+      "file": "R10_hr_operations_analyst.txt"
+    }
+  ],
+  "job_descriptions": [
+    {
+      "id": "J01",
+      "title": "Data Analyst",
+      "domain": "analytics",
+      "min_years": 2,
+      "required": [
+        "SQL",
+        "Python",
+        "Power BI",
+        "Excel",
+        "data visualization"
+      ],
+      "preferred": [
+        "dashboarding",
+        "data cleaning",
+        "stakeholder communication",
+        "reporting"
+      ],
+      "text": "Role: Data Analyst\nDomain: analytics\nMinimum experience: 2 years.\nRequired skills: SQL, Python, Power BI, Excel, data visualization.\nPreferred skills: dashboarding, data cleaning, stakeholder communication, reporting.\nResponsibilities: Analyze business data, build dashboards, automate reports, and explain insights to stakeholders.",
+      "file": "J01_data_analyst.txt"
+    },
+    {
+      "id": "J02",
+      "title": "Data Scientist",
+      "domain": "analytics",
+      "min_years": 3,
+      "required": [
+        "Python",
+        "SQL",
+        "machine learning",
+        "statistics",
+        "model evaluation"
+      ],
+      "preferred": [
+        "pandas",
+        "scikit-learn",
+        "feature engineering",
+        "experimentation"
+      ],
+      "text": "Role: Data Scientist\nDomain: analytics\nMinimum experience: 3 years.\nRequired skills: Python, SQL, machine learning, statistics, model evaluation.\nPreferred skills: pandas, scikit-learn, feature engineering, experimentation.\nResponsibilities: Build and evaluate predictive models, engineer features, and communicate model performance.",
+      "file": "J02_data_scientist.txt"
+    },
+    {
+      "id": "J03",
+      "title": "Backend Python Engineer",
+      "domain": "software engineering",
+      "min_years": 3,
+      "required": [
+        "Python",
+        "REST APIs",
+        "PostgreSQL",
+        "unit testing",
+        "Git"
+      ],
+      "preferred": [
+        "FastAPI",
+        "Docker",
+        "system design",
+        "authentication"
+      ],
+      "text": "Role: Backend Python Engineer\nDomain: software engineering\nMinimum experience: 3 years.\nRequired skills: Python, REST APIs, PostgreSQL, unit testing, Git.\nPreferred skills: FastAPI, Docker, system design, authentication.\nResponsibilities: Develop secure APIs, design data models, test services, and maintain production code.",
+      "file": "J03_backend_python_engineer.txt"
+    },
+    {
+      "id": "J04",
+      "title": "Business Analyst",
+      "domain": "business analysis",
+      "min_years": 3,
+      "required": [
+        "requirements gathering",
+        "SQL",
+        "Excel",
+        "process mapping",
+        "UAT"
+      ],
+      "preferred": [
+        "PowerPoint",
+        "stakeholder management",
+        "Agile",
+        "user stories"
+      ],
+      "text": "Role: Business Analyst\nDomain: business analysis\nMinimum experience: 3 years.\nRequired skills: requirements gathering, SQL, Excel, process mapping, UAT.\nPreferred skills: PowerPoint, stakeholder management, Agile, user stories.\nResponsibilities: Gather requirements, document processes, coordinate stakeholders, and support testing.",
+      "file": "J04_business_analyst.txt"
+    },
+    {
+      "id": "J05",
+      "title": "Cloud DevOps Engineer",
+      "domain": "cloud infrastructure",
+      "min_years": 3,
+      "required": [
+        "AWS",
+        "Linux",
+        "Docker",
+        "CI/CD",
+        "monitoring"
+      ],
+      "preferred": [
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "infrastructure as code"
+      ],
+      "text": "Role: Cloud DevOps Engineer\nDomain: cloud infrastructure\nMinimum experience: 3 years.\nRequired skills: AWS, Linux, Docker, CI/CD, monitoring.\nPreferred skills: Kubernetes, Terraform, Python, infrastructure as code.\nResponsibilities: Automate deployments, manage cloud infrastructure, and improve reliability.",
+      "file": "J05_cloud_devops_engineer.txt"
+    },
+    {
+      "id": "J06",
+      "title": "Cybersecurity Analyst",
+      "domain": "cybersecurity",
+      "min_years": 2,
+      "required": [
+        "SIEM",
+        "incident response",
+        "log analysis",
+        "network security",
+        "vulnerability management"
+      ],
+      "preferred": [
+        "Linux",
+        "Python",
+        "risk reporting",
+        "security investigations"
+      ],
+      "text": "Role: Cybersecurity Analyst\nDomain: cybersecurity\nMinimum experience: 2 years.\nRequired skills: SIEM, incident response, log analysis, network security, vulnerability management.\nPreferred skills: Linux, Python, risk reporting, security investigations.\nResponsibilities: Investigate security alerts, analyze logs, coordinate response, and track vulnerabilities.",
+      "file": "J06_cybersecurity_analyst.txt"
+    },
+    {
+      "id": "J07",
+      "title": "Product Manager",
+      "domain": "product management",
+      "min_years": 4,
+      "required": [
+        "product roadmap",
+        "prioritization",
+        "user stories",
+        "stakeholder management",
+        "Agile"
+      ],
+      "preferred": [
+        "analytics",
+        "A/B testing",
+        "market research",
+        "product metrics"
+      ],
+      "text": "Role: Product Manager\nDomain: product management\nMinimum experience: 4 years.\nRequired skills: product roadmap, prioritization, user stories, stakeholder management, Agile.\nPreferred skills: analytics, A/B testing, market research, product metrics.\nResponsibilities: Own roadmap, prioritize features, align teams, and use metrics to guide decisions.",
+      "file": "J07_product_manager.txt"
+    },
+    {
+      "id": "J08",
+      "title": "Financial Analyst",
+      "domain": "finance",
+      "min_years": 3,
+      "required": [
+        "financial modeling",
+        "forecasting",
+        "Excel",
+        "variance analysis",
+        "budgeting"
+      ],
+      "preferred": [
+        "Power BI",
+        "SQL",
+        "management reporting",
+        "financial planning"
+      ],
+      "text": "Role: Financial Analyst\nDomain: finance\nMinimum experience: 3 years.\nRequired skills: financial modeling, forecasting, Excel, variance analysis, budgeting.\nPreferred skills: Power BI, SQL, management reporting, financial planning.\nResponsibilities: Prepare forecasts, explain variances, support budgets, and deliver reports.",
+      "file": "J08_financial_analyst.txt"
+    },
+    {
+      "id": "J09",
+      "title": "QA Automation Engineer",
+      "domain": "quality engineering",
+      "min_years": 3,
+      "required": [
+        "Python",
+        "API testing",
+        "pytest",
+        "test planning",
+        "CI/CD"
+      ],
+      "preferred": [
+        "Selenium",
+        "Playwright",
+        "SQL",
+        "regression testing"
+      ],
+      "text": "Role: QA Automation Engineer\nDomain: quality engineering\nMinimum experience: 3 years.\nRequired skills: Python, API testing, pytest, test planning, CI/CD.\nPreferred skills: Selenium, Playwright, SQL, regression testing.\nResponsibilities: Build automation suites, validate APIs, manage regression tests, and integrate tests into CI.",
+      "file": "J09_qa_automation_engineer.txt"
+    },
+    {
+      "id": "J10",
+      "title": "HR Operations Analyst",
+      "domain": "human resources",
+      "min_years": 2,
+      "required": [
+        "HRIS",
+        "Excel",
+        "data validation",
+        "recruitment operations",
+        "data privacy"
+      ],
+      "preferred": [
+        "reporting",
+        "stakeholder communication",
+        "process improvement",
+        "dashboarding"
+      ],
+      "text": "Role: HR Operations Analyst\nDomain: human resources\nMinimum experience: 2 years.\nRequired skills: HRIS, Excel, data validation, recruitment operations, data privacy.\nPreferred skills: reporting, stakeholder communication, process improvement, dashboarding.\nResponsibilities: Maintain accurate employee data, support recruitment workflows, report operations, and protect personal information.",
+      "file": "J10_hr_operations_analyst.txt"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Diya Shah
+Data Scientist | 4 years of experience
+Domain: analytics
+Skills: Python, SQL, machine learning, statistics, pandas, scikit-learn, feature engineering, model evaluation.
+Experience: Developed classification models, prepared datasets, engineered features, evaluated models with precision and recall, and communicated findings to product teams.
+Education: M.Sc. Statistics.

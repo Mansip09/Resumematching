@@ -1,0 +1,6 @@
+Rohan Desai
+Cloud DevOps Engineer | 5 years of experience
+Domain: cloud infrastructure
+Skills: AWS, Linux, Docker, Kubernetes, Terraform, CI/CD, Python, monitoring.
+Experience: Automated deployments, maintained Kubernetes workloads, managed infrastructure as code, built CI/CD pipelines, and improved monitoring.
+Education: B.E. Computer Engineering.

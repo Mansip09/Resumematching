@@ -1,0 +1,6 @@
+Kabir Nair
+Backend Developer | 5 years of experience
+Domain: software engineering
+Skills: Python, FastAPI, REST APIs, PostgreSQL, Docker, Git, unit testing, system design.
+Experience: Built REST services, designed relational schemas, implemented authentication, containerized services, and wrote automated tests.
+Education: B.E. Information Technology.

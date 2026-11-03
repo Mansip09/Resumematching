@@ -1,0 +1,6 @@
+Role: Data Scientist
+Domain: analytics
+Minimum experience: 3 years.
+Required skills: Python, SQL, machine learning, statistics, model evaluation.
+Preferred skills: pandas, scikit-learn, feature engineering, experimentation.
+Responsibilities: Build and evaluate predictive models, engineer features, and communicate model performance.

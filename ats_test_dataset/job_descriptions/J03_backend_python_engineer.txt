@@ -1,0 +1,6 @@
+Role: Backend Python Engineer
+Domain: software engineering
+Minimum experience: 3 years.
+Required skills: Python, REST APIs, PostgreSQL, unit testing, Git.
+Preferred skills: FastAPI, Docker, system design, authentication.
+Responsibilities: Develop secure APIs, design data models, test services, and maintain production code.

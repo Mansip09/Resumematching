@@ -1,0 +1,6 @@
+Ananya Rao
+Cybersecurity Analyst | 3 years of experience
+Domain: cybersecurity
+Skills: SIEM, incident response, log analysis, network security, vulnerability management, Linux, Python, risk reporting.
+Experience: Investigated security alerts, analyzed logs, coordinated incident response, tracked vulnerabilities, and prepared risk reports.
+Education: B.Sc. Information Security.

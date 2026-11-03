@@ -1,0 +1,6 @@
+Role: Product Manager
+Domain: product management
+Minimum experience: 4 years.
+Required skills: product roadmap, prioritization, user stories, stakeholder management, Agile.
+Preferred skills: analytics, A/B testing, market research, product metrics.
+Responsibilities: Own roadmap, prioritize features, align teams, and use metrics to guide decisions.

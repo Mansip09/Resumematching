@@ -1,0 +1,6 @@
+Role: HR Operations Analyst
+Domain: human resources
+Minimum experience: 2 years.
+Required skills: HRIS, Excel, data validation, recruitment operations, data privacy.
+Preferred skills: reporting, stakeholder communication, process improvement, dashboarding.
+Responsibilities: Maintain accurate employee data, support recruitment workflows, report operations, and protect personal information.

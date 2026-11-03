@@ -1,0 +1,6 @@
+Role: Cybersecurity Analyst
+Domain: cybersecurity
+Minimum experience: 2 years.
+Required skills: SIEM, incident response, log analysis, network security, vulnerability management.
+Preferred skills: Linux, Python, risk reporting, security investigations.
+Responsibilities: Investigate security alerts, analyze logs, coordinate response, and track vulnerabilities.

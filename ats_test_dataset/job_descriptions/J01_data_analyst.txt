@@ -1,0 +1,6 @@
+Role: Data Analyst
+Domain: analytics
+Minimum experience: 2 years.
+Required skills: SQL, Python, Power BI, Excel, data visualization.
+Preferred skills: dashboarding, data cleaning, stakeholder communication, reporting.
+Responsibilities: Analyze business data, build dashboards, automate reports, and explain insights to stakeholders.

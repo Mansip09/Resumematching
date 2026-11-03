@@ -1,0 +1,6 @@
+Role: Financial Analyst
+Domain: finance
+Minimum experience: 3 years.
+Required skills: financial modeling, forecasting, Excel, variance analysis, budgeting.
+Preferred skills: Power BI, SQL, management reporting, financial planning.
+Responsibilities: Prepare forecasts, explain variances, support budgets, and deliver reports.

@@ -1,0 +1,101 @@
+﻿resume_id,resume_name,resume_file,jd_id,jd_title,jd_file,expected_score,required_skill_coverage_pct,preferred_skill_coverage_pct,experience_fit_pct,domain_match
+R01,Aarav Mehta,R01_data_analyst.txt,J01,Data Analyst,J01_data_analyst.txt,96,100.0,75.0,100.0,True
+R01,Aarav Mehta,R01_data_analyst.txt,J02,Data Scientist,J02_data_scientist.txt,49,40.0,0.0,100.0,True
+R01,Aarav Mehta,R01_data_analyst.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,39,40.0,0.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J04,Business Analyst,J04_business_analyst.txt,39,40.0,0.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,19,0.0,25.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,19,0.0,25.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J07,Product Manager,J07_product_manager.txt,11,0.0,0.0,75.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J08,Financial Analyst,J08_financial_analyst.txt,34,20.0,50.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,31,20.0,25.0,100.0,False
+R01,Aarav Mehta,R01_data_analyst.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,34,20.0,50.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J01,Data Analyst,J01_data_analyst.txt,49,40.0,0.0,100.0,True
+R02,Diya Shah,R02_data_scientist.txt,J02,Data Scientist,J02_data_scientist.txt,96,100.0,75.0,100.0,True
+R02,Diya Shah,R02_data_scientist.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,39,40.0,0.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J04,Business Analyst,J04_business_analyst.txt,39,40.0,0.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,19,0.0,25.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,19,0.0,25.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J07,Product Manager,J07_product_manager.txt,15,0.0,0.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J08,Financial Analyst,J08_financial_analyst.txt,19,0.0,25.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,31,20.0,25.0,100.0,False
+R02,Diya Shah,R02_data_scientist.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,15,0.0,0.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J01,Data Analyst,J01_data_analyst.txt,39,40.0,0.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J02,Data Scientist,J02_data_scientist.txt,39,40.0,0.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,96,100.0,75.0,100.0,True
+R03,Kabir Nair,R03_backend_developer.txt,J04,Business Analyst,J04_business_analyst.txt,27,20.0,0.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,31,20.0,25.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,19,0.0,25.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J07,Product Manager,J07_product_manager.txt,15,0.0,0.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J08,Financial Analyst,J08_financial_analyst.txt,19,0.0,25.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,31,20.0,25.0,100.0,False
+R03,Kabir Nair,R03_backend_developer.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,15,0.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J01,Data Analyst,J01_data_analyst.txt,39,40.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J02,Data Scientist,J02_data_scientist.txt,39,40.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,27,20.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J04,Business Analyst,J04_business_analyst.txt,96,100.0,75.0,100.0,True
+R04,Isha Kulkarni,R04_business_analyst.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,15,0.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,15,0.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J07,Product Manager,J07_product_manager.txt,39,40.0,0.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J08,Financial Analyst,J08_financial_analyst.txt,31,20.0,25.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,19,0.0,25.0,100.0,False
+R04,Isha Kulkarni,R04_business_analyst.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,27,20.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J01,Data Analyst,J01_data_analyst.txt,27,20.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J02,Data Scientist,J02_data_scientist.txt,27,20.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,31,20.0,25.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J04,Business Analyst,J04_business_analyst.txt,15,0.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,96,100.0,75.0,100.0,True
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,22,0.0,50.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J07,Product Manager,J07_product_manager.txt,15,0.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J08,Financial Analyst,J08_financial_analyst.txt,15,0.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,39,40.0,0.0,100.0,False
+R05,Rohan Desai,R05_cloud_devops_engineer.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,15,0.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J01,Data Analyst,J01_data_analyst.txt,31,20.0,25.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J02,Data Scientist,J02_data_scientist.txt,27,20.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,27,20.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J04,Business Analyst,J04_business_analyst.txt,15,0.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,31,20.0,25.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,96,100.0,75.0,100.0,True
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J07,Product Manager,J07_product_manager.txt,11,0.0,0.0,75.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J08,Financial Analyst,J08_financial_analyst.txt,15,0.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,27,20.0,0.0,100.0,False
+R06,Ananya Rao,R06_cybersecurity_analyst.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,19,0.0,25.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J01,Data Analyst,J01_data_analyst.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J02,Data Scientist,J02_data_scientist.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J04,Business Analyst,J04_business_analyst.txt,26,0.0,75.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J07,Product Manager,J07_product_manager.txt,96,100.0,75.0,100.0,True
+R07,Vikram Joshi,R07_product_manager.txt,J08,Financial Analyst,J08_financial_analyst.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,15,0.0,0.0,100.0,False
+R07,Vikram Joshi,R07_product_manager.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,15,0.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J01,Data Analyst,J01_data_analyst.txt,55,60.0,25.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J02,Data Scientist,J02_data_scientist.txt,27,20.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,27,20.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J04,Business Analyst,J04_business_analyst.txt,39,40.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,15,0.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,15,0.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J07,Product Manager,J07_product_manager.txt,15,0.0,0.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J08,Financial Analyst,J08_financial_analyst.txt,96,100.0,75.0,100.0,True
+R08,Meera Iyer,R08_financial_analyst.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,19,0.0,25.0,100.0,False
+R08,Meera Iyer,R08_financial_analyst.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,31,20.0,25.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J01,Data Analyst,J01_data_analyst.txt,39,40.0,0.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J02,Data Scientist,J02_data_scientist.txt,39,40.0,0.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,39,40.0,0.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J04,Business Analyst,J04_business_analyst.txt,27,20.0,0.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,31,20.0,25.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,19,0.0,25.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J07,Product Manager,J07_product_manager.txt,15,0.0,0.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J08,Financial Analyst,J08_financial_analyst.txt,19,0.0,25.0,100.0,False
+R09,Neel Patil,R09_qa_automation_engineer.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,96,100.0,75.0,100.0,True
+R09,Neel Patil,R09_qa_automation_engineer.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,15,0.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J01,Data Analyst,J01_data_analyst.txt,34,20.0,50.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J02,Data Scientist,J02_data_scientist.txt,15,0.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J03,Backend Python Engineer,J03_backend_python_engineer.txt,15,0.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J04,Business Analyst,J04_business_analyst.txt,27,20.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J05,Cloud DevOps Engineer,J05_cloud_devops_engineer.txt,15,0.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J06,Cybersecurity Analyst,J06_cybersecurity_analyst.txt,19,0.0,25.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J07,Product Manager,J07_product_manager.txt,11,0.0,0.0,75.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J08,Financial Analyst,J08_financial_analyst.txt,31,20.0,25.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J09,QA Automation Engineer,J09_qa_automation_engineer.txt,15,0.0,0.0,100.0,False
+R10,Sara Fernandes,R10_hr_operations_analyst.txt,J10,HR Operations Analyst,J10_hr_operations_analyst.txt,96,100.0,75.0,100.0,True

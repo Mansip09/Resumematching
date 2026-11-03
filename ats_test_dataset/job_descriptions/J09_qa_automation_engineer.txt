@@ -1,0 +1,6 @@
+Role: QA Automation Engineer
+Domain: quality engineering
+Minimum experience: 3 years.
+Required skills: Python, API testing, pytest, test planning, CI/CD.
+Preferred skills: Selenium, Playwright, SQL, regression testing.
+Responsibilities: Build automation suites, validate APIs, manage regression tests, and integrate tests into CI.

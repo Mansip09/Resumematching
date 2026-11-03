@@ -1,0 +1,6 @@
+Role: Cloud DevOps Engineer
+Domain: cloud infrastructure
+Minimum experience: 3 years.
+Required skills: AWS, Linux, Docker, CI/CD, monitoring.
+Preferred skills: Kubernetes, Terraform, Python, infrastructure as code.
+Responsibilities: Automate deployments, manage cloud infrastructure, and improve reliability.
