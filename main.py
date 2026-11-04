@@ -15,7 +15,6 @@ from fastapi import Depends, FastAPI, HTTPException, Header
 from fastapi.middleware.cors import CORSMiddleware
 from google.auth.transport.requests import AuthorizedSession
 from google.oauth2 import service_account
-from llama_cpp import Llama
 from pydantic import BaseModel, Field
 from pypdf import PdfReader
 
@@ -36,7 +35,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-_llm: Llama | None = None
+_llm = None
 
 
 def _ensure_model() -> str:
@@ -49,9 +48,11 @@ def _ensure_model() -> str:
     return hf_hub_download(repo_id=MODEL_REPO, filename=MODEL_FILE, local_dir=MODELS_DIR)
 
 
-def get_llm() -> Llama:
+def get_llm():
     global _llm
     if _llm is None:
+        from llama_cpp import Llama
+
         model_path = _ensure_model()
         _llm = Llama(model_path=model_path, n_ctx=4096, n_threads=os.cpu_count() or 4, verbose=False)
     return _llm
